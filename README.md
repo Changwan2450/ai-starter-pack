@@ -68,6 +68,20 @@ Enable advanced automation layer.
 aiupgrade rollback <project_name>
 Return project to Lite mode.
 
+## Quick Start
+
+Create a starter project using the CLI.
+
+Example
+
+aistart myproject
+
+cd myproject
+
+Workflow
+
+kickoff -> propose -> approve -> implement -> update-context
+
 ## Example Usage
 
 aistart blog_engine
